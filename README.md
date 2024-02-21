@@ -45,7 +45,7 @@ The program will generate an `output.txt` file containing the ASCII representati
 
 Input Image:
 
-[Input image example](https://raw.githubusercontent.com/jeffizmyname/ImgToAsci/main/src/image.png)
+![Input image example](https://raw.githubusercontent.com/jeffizmyname/ImgToAsci/main/src/image.png)
 
 Output ASCII Art:
 ```
