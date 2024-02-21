@@ -48,7 +48,7 @@ Input Image:
 
 
 Output ASCII Art:
-
+```
 ..SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%#SS#SSSS#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%S#SSSSSS#S%%SSSSSS#SS%S%%#@##@@#SSSSSSSSSSSSSSS.
 ..SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%#SS#SSSS#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%S#SSSSSS#S%%SSSSSS#SS#@#S?*****S@#SSSSSSSSSSSSS.
 ..SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS%#SS#SSSS#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%S#SSSSSS#S%%SSSSS#@#%?***********%@@###########.
@@ -126,5 +126,5 @@ Output ASCII Art:
 ..#########S#@S+****%#@@#S@@@#@###########@@#@#####@########@@#@##@#@#######@#####@#######@@#@@##@@@@####@##S#@#@@#################@@@@#######.
 ..###########@S+*%S@@#@###@@@#@###########@@#@#####@########@@#@##@#@#######@#####@#######@@#@@##@@@@####@##S#@#@@#################@@@@#######.
 ..SSSSSSSSSSS#@@@@@@@#@###@@@#@###########@@#@#####@########@@#@##@#@#######@#####@#######@@#@@##@@@@####@##S#@#@@#################@@@@#######.
-
+```
 
