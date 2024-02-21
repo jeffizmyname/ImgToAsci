@@ -1,0 +1,3 @@
+C:/Users/stasi/Documents/koding/c++/ImgToAsci/build/CMakeFiles/ImgToAsci.dir
+C:/Users/stasi/Documents/koding/c++/ImgToAsci/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/stasi/Documents/koding/c++/ImgToAsci/build/CMakeFiles/ZERO_CHECK.dir

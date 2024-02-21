@@ -1,0 +1,10 @@
+^C:\USERS\STASI\DOCUMENTS\KODING\C++\IMGTOASCI\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/stasi/Documents/koding/c++/ImgToAsci -BC:/Users/stasi/Documents/koding/c++/ImgToAsci/build --check-stamp-file C:/Users/stasi/Documents/koding/c++/ImgToAsci/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
